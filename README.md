@@ -2,7 +2,7 @@
 A brief analysis of Kickstarter campaign data to assist in a possible theatrical production.
 ---
 
-##**Charts**##
+**Charts**
 ---
 Good news: Kickstarter is friendly to theatrical productions! 
 
