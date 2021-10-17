@@ -9,21 +9,21 @@ Good news: Kickstarter is friendly to theatrical productions!
 The chart below breaks down campaign statuses by main category:
 ---
 ---
-![Graph of KS Statuses by Category]("C:\Users\TTHammond\Desktop\git\KSData\MonthOutcomes.png")
+![Graph of KS Statuses by Category]("C:\Users\TTHammond\Desktop\git\KSData\MonthOutcomes")
 ---
 The data bears out that theater campaigns are widely accepted and supported on Kickstarter, with a total of 912 campaigns in the theater category in the US. 525 of these US-based campaigns were successful,  success rate of 58%. 
 ---
 ---
 Breaking this graph down further, we can isolate for the subcategory "plays" and see the following: 
 ---
-![Graph of KS Stasuses by Subcategory "Plays"]("C:\Users\TTHammond\Desktop\git\KSData\SubcategoryOutcomes.png")
+![Graph of KS Stasuses by Subcategory "Plays"]("C:\Users\TTHammond\Desktop\git\KSData\SubcategoryOutcomes")
 ---
 Of the 912 US-based theater campaigns, 671 (74%) of these were plays, with 412 (61%) of these plays finding successful funding on KickStarter. The success rate for the "play" subcategory in the data is slightly higher than the 58% success rate above for all US-based theater campaign categories. 
 ---
 ---
 The final chart below displays **when** you might be more successful launching your campaign: 
 ---
-![Launch Date Outcomes by Month]("C:\Users\TTHammond\Desktop\git\KSData\MonthOutcomes.png")
+![Launch Date Outcomes by Month]("C:\Users\TTHammond\Desktop\git\KSData\MonthOutcomes")
 ---
 Theater campaigns (both in the US and internationally) see a sharp rise in successful funding between March and May, reaching a peak in May, and then falling off steadily between May and September. 
 ---
