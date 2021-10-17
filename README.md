@@ -16,7 +16,7 @@ The data bears out that theater campaigns are widely accepted and supported on K
 ---
 Breaking this graph down further, we can isolate for the subcategory "plays" and see the following: 
 ---
-![Graph of KS Stasuses by Subcategory "Plays"]("C:\Users\TTHammond\Desktop\git\KSData\SubcategoryOutcomes")
+![Graph of KS Stasuses by Subcategory "Plays"]("kickstart/SubcategoryOutcomes.png")
 ---
 Of the 912 US-based theater campaigns, 671 (74%) of these were plays, with 412 (61%) of these plays finding successful funding on KickStarter. The success rate for the "play" subcategory in the data is slightly higher than the 58% success rate above for all US-based theater campaign categories. 
 ---
