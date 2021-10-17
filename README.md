@@ -4,7 +4,7 @@ A brief analysis of Kickstarter campaign data to assist in a possible theatrical
 ---
 
 **Charts**
----
+
 Good news: Kickstarter is friendly to theatrical productions! 
 
 The chart below breaks down campaign statuses by main category:
@@ -27,7 +27,6 @@ Theater campaigns (both in the US and internationally) see a sharp rise in succe
 
 
 **Recommendations**
----
 
 I would recommend the following strategy for a US-based Kickstarter theater campaign. I think that you're right to focus on a play, given their success rate, and you will want to be sure that you are ready to launch the campaign no later than early April to ride the early-Spring momentum for campaigns like yours. Given the work you've already put into thinking through this, I believe you're in a great position to take advantage of the Kickstarter platform. 
 
